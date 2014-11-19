@@ -1,4 +1,4 @@
-clear-download-logs
+Clear Download Logs
 ===================
 
 Clear Download Logs
